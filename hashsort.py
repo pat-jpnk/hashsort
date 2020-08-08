@@ -33,4 +33,4 @@ if __name__ == "__main__":
 
     # N + N * k
 
-    # hashsort: O(N) < O(N) for all k < N 
+    # hashsort: O(N) < O(N**2) for all k < N 
